@@ -1,2 +1,2 @@
-# sample-project
+# OLS_Logit Model
 regression and logistic
